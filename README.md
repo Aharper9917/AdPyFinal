@@ -1,6 +1,20 @@
 # AdPyFinal
 Advance Python Final
 ---------------------
+To download the images for our data set you need to run the file getPhotos.py
+
+FasterRCNN_Finetuning_noAsync.py is our first attempt at the project.
+FasterRCNN_Finetuning_Async.py is the same as above, but while running the 
+    NN on the webcam feed with CV2 (aka openCV)
+facenet_noAsync.py is the first test with the fasenet model.
+facenet_Acync.py is the same as above but with asynchronous processing. The 
+    facenet model doesn't actually need the async; we just used it as a simple 
+    way to test our async code.
+facenet_webcam.py is the facenet model running on the camera feed without async.
+
+The files: coco_eval.py, coco_utils.py, engine.py, utils.py, transforms.py are
+    all dependecies files for our first NN with the fasterRCNN model.
+
 
 
 Group Members
