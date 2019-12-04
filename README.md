@@ -15,6 +15,7 @@ facenet_webcam.py is the facenet model running on the camera feed without async.
 The files: coco_eval.py, coco_utils.py, engine.py, utils.py, transforms.py are
     all dependecies files for our first NN with the fasterRCNN model.
 
+Please, feel free to email apharper@mavs.coloradomes.edu if any question arise.
 
 
 Group Members
