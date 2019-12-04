@@ -1,12 +1,25 @@
 # AdPyFinal
 Advance Python Final
+---------------------
 
-Group Members: Allen Harper, Darren Gleasson, Grant Kingma
 
-Abstract:
+Group Members
+-------------
+Allen Harper, Darren Gleasson, Grant Kingma
+
+
+Note
+-------------
+There is only one commit to the repo because my computer is the only one in our group that has a GPU. So, we had to run our model on said computer.
+
+
+
+Abstract
+-------------
 We are planning to make a Machine Learning Algorithm for Facial Recognition, using PyTorch. We will get a large set of data to feed our NN, tweaking the hyperparameters until we get an optimal results for detecting human faces. We will be implementing this on embedded hardware such as a RaspberryPi and Jeston Nano.
 
-UI Prototype:
+UI Prototype
+-------------
 Epoch 0/24
 train Loss: 0.6058 Acc: 0.6926
 val Loss: 0.3300 Acc: 0.8562
